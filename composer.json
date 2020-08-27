@@ -2,7 +2,6 @@
 	"name": "magenerds/baseprice",
 	"description": "This module displays base prices",
 	"require": {
-		"magenerds/dashboard": "^1.0"
 	},
 	"type": "magento2-module",
 	"license": "OSL-3.0",
