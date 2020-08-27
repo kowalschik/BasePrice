@@ -1,17 +1,17 @@
 {
-  "name": "magenerds/baseprice",
-  "description": "This module displays base prices",
-  "require": {
-    "magenerds/dashboard": "^1.0"
-  },
-  "type": "magento2-module",
-  "license": "OSL-3.0",
-  "autoload": {
-    "files": [
-      "registration.php"
-    ],
-    "psr-4": {
-      "Magenerds\\BasePrice\\": ""
-    }
-  }
+	"name": "magenerds/baseprice",
+	"description": "This module displays base prices",
+	"require": {
+		"magenerds/dashboard": "^1.0"
+	},
+	"type": "magento2-module",
+	"license": "OSL-3.0",
+	"autoload": {
+		"files": [
+			"registration.php"
+		],
+		"psr-4": {
+			"Magenerds\\BasePrice\\": ""
+		}
+	}
 }
